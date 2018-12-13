@@ -1,0 +1,19 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "a practice for git-flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveJump/git-flow-example.git"
+  },
+  "author": "DaveJump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveJump/git-flow-example/issues"
+  },
+  "homepage": "https://github.com/DaveJump/git-flow-example#readme"
+}
